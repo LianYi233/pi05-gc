@@ -1,0 +1,5 @@
+assets: /home/wyn/myStudy/2601-data_in_lerobot_format/lerobot/LIBERO/libero/libero/./assets
+bddl_files: /home/wyn/myStudy/2601-data_in_lerobot_format/lerobot/LIBERO/libero/libero/./bddl_files
+benchmark_root: /home/wyn/myStudy/2601-data_in_lerobot_format/lerobot/LIBERO/libero/libero
+datasets: /home/wyn/myStudy/2601-data_in_lerobot_format/lerobot/LIBERO/libero/libero/datasets/libero_object_no_noops/1.0.0/datasets
+init_states: /home/wyn/myStudy/2601-data_in_lerobot_format/lerobot/LIBERO/libero/libero/./init_files

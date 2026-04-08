@@ -1,0 +1,2 @@
+step	vlm_group_size	expert_group_size	vlm_grad_norm	expert_grad_norm_before_clip	expert_grad_norm_after_clip	expert_clip_threshold	expert_clip_scale	expert_clip_applied	expert_clip_skipped_no_vlm
+0	180	76	0.21167935	0.23610871	0.21167845	0.21167935	0.89653346	1	0
